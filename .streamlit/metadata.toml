@@ -1,0 +1,7 @@
+name: Crypto Trading Bot Web Application
+description: Interactive cryptocurrency trading platform with real-time market data, technical analysis, and automated trading capabilities.
+author: Manus AI
+author_email: support@example.com
+version: 1.0.0
+license: MIT
+repository: https://github.com/yourusername/crypto-trading-website
